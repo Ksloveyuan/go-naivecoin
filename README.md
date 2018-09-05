@@ -1,5 +1,5 @@
 # Go_NaiveCoin
-Thanks to lhartikk fot his naivecoin tutorial: [https://lhartikk.github.io/](https://lhartikk.github.io/)
+Thanks to lhartikk for his naivecoin tutorial: [https://lhartikk.github.io/](https://lhartikk.github.io/)
 
 This repository follows the tutorial and reimplemented by golang, original NodeJs version is [https://github.com/lhartikk/naivecoin](https://github.com/lhartikk/naivecoin).
 
